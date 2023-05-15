@@ -17,6 +17,8 @@
   ## Usage
   Here you are able to see when you login that you can search and save books. But there will be a link here for you to use!
   ![googlebookssearch](https://github.com/dinoarslanovic26/Find-A-Book/assets/117688172/4da529ca-f9d8-43d7-b6af-476b2183b74a)
+![logingoogle](https://github.com/dinoarslanovic26/Find-A-Book/assets/117688172/3b4534b2-000e-4db4-a9aa-10a7fcae7784)
+![signupgoogle](https://github.com/dinoarslanovic26/Find-A-Book/assets/117688172/a8e87a74-ee2d-48f4-be6c-647cb7f01cbd)
 
   
   ## License
