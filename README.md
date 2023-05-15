@@ -1,13 +1,12 @@
 # Find A Book
 
   ## Table of Contents 
-  [Description](#description)
-  [License](#license)
-  [Installation](#installation)
-  [Usage](#usage)
-  [Contributing](#contributing)
-  [Test](#test)
-  [Questions](#questions)
+  - [Description](#description)
+  - [License](#license)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Questions](#questions)
 
   ## Description 
   You are able to make an account and with that you are able to find books that you would like to read in the future and save them.
